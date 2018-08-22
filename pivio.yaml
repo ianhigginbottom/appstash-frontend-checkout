@@ -8,7 +8,7 @@ lifecycle: production
 tags:
   - Angular
   - JavaScript
-  - front-end
+  - front-en
   - TypeScript
 links:
   buildchain: "https://travis-ci.org/ianhigginbottom/appstash-frontend-checkout/"
