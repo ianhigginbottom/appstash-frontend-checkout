@@ -6,6 +6,7 @@ description: "Central checkout side"
 vcsroot: "https://travis-ci.org/ianhigginbottom/appstash-frontend-checkout/"
 lifecycle: production
 tags:
+  - PIVIO
   - Angular
   - JavaScript
   - front-en
